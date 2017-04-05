@@ -1,5 +1,14 @@
 # README #
 
+Please NOTE:
+
+This is now been deprecated. Please review to this repo.  
+
+https://github.com/openshift/request-header-saml-service-provider/ 
+
+################### ARCHIVE ################################################################################################
+############################################################################################################################
+
 This Docker image is used for SAML authentication.
 
 # OpenShift Instructions #
